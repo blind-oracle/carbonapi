@@ -20,8 +20,8 @@ import (
 	"github.com/bookingcom/carbonapi/util"
 	"github.com/pkg/errors"
 
+	"github.com/blind-oracle/grace/gracehttp"
 	"github.com/dgryski/httputil"
-	"github.com/facebookgo/grace/gracehttp"
 	"github.com/lomik/zapwriter"
 	"github.com/peterbourgon/g2g"
 	"github.com/prometheus/client_golang/prometheus"

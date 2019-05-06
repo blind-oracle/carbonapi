@@ -28,7 +28,7 @@ import (
 	"github.com/bookingcom/carbonapi/pkg/parser"
 	"github.com/bookingcom/carbonapi/util"
 
-	"github.com/facebookgo/grace/gracehttp"
+	"github.com/blind-oracle/grace/gracehttp"
 	"github.com/facebookgo/pidfile"
 	"github.com/gorilla/handlers"
 	"github.com/lomik/zapwriter"
